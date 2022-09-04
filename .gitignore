@@ -9,6 +9,7 @@
 # next.js
 /.next/
 /out/
+/.husky/
 
 # production
 /build
@@ -31,6 +32,9 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# husky
+
 
 .gitattributes
 themes.json

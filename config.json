@@ -1,6 +1,6 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/zerogtiger/zerogtiger/master/README.md",
-  "title": "ZeroGuru : : Home",
+  "title": "𝚉𝚎𝚛𝚘𝙶𝚞𝚛𝚞 : : 𝙷𝚘𝚖𝚎",
   "name": "Tiger D.",
   "ascii": "ZeroGuru",
   "social": {
@@ -8,7 +8,7 @@
     "linkedin": "zeroguru"
   },
   "email": "sighuponly@gmail.com",
-  "ps1_hostname": "ZeroGuru.vercel.app",
+  "ps1_hostname": "zeroguru.vercel.app",
   "ps1_username": "guest",
   "repo": "https://github.com/zerogtiger/zerogtiger.github.io",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
@@ -18,22 +18,22 @@
   },
   "colors": {
     "light": {
-      "background": "#d5d6db",
-      "foreground": "#565a6e",
-      "yellow": "#8f5e15",
-      "green": "#485e30",
-      "gray": "#0f0f14",
-      "blue": "#34548a",
-      "red": "#8c4351"
+      "background": "#1f1d45",
+      "foreground": "#f8dcc0",
+      "yellow": "#ff6d00",
+      "green": "#50c219",
+      "gray": "#f8dcc0",
+      "blue": "#0f4ac6",
+      "red": "#ff3730"
     },
     "dark": {
       "background": "#1f1d45",
       "foreground": "#f8dcc0",
-      "yellow": "#e7741e",
-      "green": "#4ab118",
+      "yellow": "#ff6d00",
+      "green": "#50c219",
       "gray": "#f8dcc0",
       "blue": "#0f4ac6",
-      "red": "#ff834a"
+      "red": "#ff3730"
     }
   }
 }

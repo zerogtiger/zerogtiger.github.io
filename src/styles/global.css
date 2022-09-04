@@ -28,15 +28,15 @@ div#__next > div {
 }
 
 ::-webkit-scrollbar-track {
-  background: #1e252e;
+  background: #525252;
   border-radius: 5px;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #ebdbb2;
+  background: #f8dcc0;
   border-radius: 5px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #e7741e;
+  background: #ff6d00;
 }
